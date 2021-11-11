@@ -1,0 +1,169 @@
+
+
+
+
+AEON PROPOSAL 0001                                         Author name 1
+Category: Development                                      Author name 2
+                                                           Author name 3
+                                                           November 2021
+
+
+			    Mobile Wallets
+
+
+Abstract
+
+    This proposal renews the funding for continued work on developing 
+    the Aeon Mobile Wallets for iOS and Android. 
+
+Copyright and License Notice
+
+   Copyright (c) 2021 aeonverse. This document is available under the
+   Creative Commons Attribution 3.0 License (international). To view a
+   copy of the license visit http://creativecommons.org/licenses/by/3.0/
+
+
+Table of Contents
+
+   1. Overview  . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+   2. Status Update . . . . . . . . . . . . . . . . . . . . . . . . .  3
+   3. Upcoming  . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+   4. Voting Details  . . . . . . . . . . . . . . . . . . . . . . . .  5
+   
+   
+   
+   
+   
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+Author name 1 et al.            Mobile Wallets                  [Page 1]
+
+AEON PROPOSAL 0001                                         November 2021
+
+
+1. Overview
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id ex 
+   scelerisque, eleifend ligula id, rhoncus dolor. Vestibulum lacinia 
+   velit et ante placerat mollis at ac dui. Praesent gravida mattis 
+   ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id ex 
+   scelerisque, eleifend ligula id, rhoncus dolor. Vestibulum lacinia 
+   velit et ante placerat mollis at ac dui. Praesent gravida mattis 
+   ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+
+
+2. Status Update
+
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id ex 
+   scelerisque, eleifend ligula id, rhoncus dolor. Vestibulum lacinia 
+   velit et ante placerat mollis at ac dui. Praesent gravida mattis 
+   ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+   
+   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin id ex 
+   scelerisque, eleifend ligula id, rhoncus dolor. Vestibulum lacinia 
+   velit et ante placerat mollis at ac dui. Praesent gravida mattis 
+   ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+
+
+3. Upcoming
+
+   Ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+ 
+
+
+Author name 1 et al.            Mobile Wallets                  [Page 2]
+
+AEON PROPOSAL 0001                                         November 2021
+
+   ligula, at luctus sem mattis a. Curabitur vitae leo in ipsum aliquam 
+   hendrerit at vulputate diam. Phasellus lacinia porttitor tortor, ac 
+   pretium turpis fringilla nec. Nullam lacus lacus, accumsan ac ornare 
+   sed, faucibus in justo. Morbi auctor, nunc non pellentesque auctor, 
+   justo nisi ornare augue, vitae tincidunt felis erat eget quam. 
+
+
+4. Voting Details
+   Height: 
+       1500500
+   Approve ID: 
+       41830e512a34e0e0e3a7ef567fce12cd5256f66456dc19c3af7049adb67223f1
+   Reject ID: 
+       5d25533f15233c3e5b669a11069055e8fcb89437bfef4ba5b757e99145fa4d80
+   
+   All coins locked at height 1500500 with attached payment ID matching
+   the approve ID are registered as approving this proposal and all 
+   coins attached to the reject ID are registered to reject this 
+   proposal.
+
+5. References
+
+   [TRS] Fujisaki, E., and K. Suzuki, "Traceable Ring Signature", 2007.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Author name 1 et al.            Mobile Wallets                  [Page 3]
+
